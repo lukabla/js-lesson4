@@ -23,7 +23,7 @@ function randomNumber(random) {
   return result;
 }
 const x = randomNumber(Math.round(Math.random() * 100));
-console.log(x);
+// console.log(x);
 
 function string(text) {
   return text.length;
